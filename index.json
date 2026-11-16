@@ -1,0 +1,62 @@
+{
+  "pluginId": "theblindoni",
+  "repoVersion": "1",
+  "generatedAt": "2026-11-16T03:17:20.4152305Z",
+  "games": [
+    {
+      "gameId": "dispatch",
+      "displayName": "Dispatch",
+      "modName": "BlindPatch",
+      "description": "Screen reader mod for Dispatch. Speaks menus, dialogue choices, quick-time events, the dispatch screen, hero files and hacking puzzles through NVDA or Windows\u0027 voice, with audio descriptions for all 8 episodes. Includes UE4SS.",
+      "steamAppId": "2592160",
+      "linuxSteamAppId": null,
+      "exeName": "Dispatch/Binaries/Win64/Dispatch-Win64-Shipping.exe",
+      "linuxExeName": null,
+      "probeRules": [],
+      "linuxProbeRules": [],
+      "registryProbe": null,
+      "asciiPathShim": null,
+      "dependencies": [],
+      "tags": [
+        "screen-reader",
+        "controller-support",
+        "audio-cues",
+        "completable"
+      ],
+      "languages": [
+        "en"
+      ],
+      "defaultPreInstall": null,
+      "defaultPostInstall": null,
+      "defaultPostUninstall": null
+    }
+  ],
+  "releasesByGameId": {
+    "dispatch": [
+      {
+        "gameId": "dispatch",
+        "pluginId": "theblindoni",
+        "version": "1.0.0-beta.1",
+        "channel": "beta",
+        "targetPlatform": null,
+        "linuxPackage": null,
+        "packageUrl": "https://raw.githubusercontent.com/TheBlindOni/Blindpatch/9f6f44a06281ba4f7822003b94e002f1d01ce66f/releases/BlindPatch-dispatch-1.0.0-beta.1.zip",
+        "sha256": "8864c6f2ca5ca17292facaea5f52e6713d880c6ea82cc10ed42ec0795af8c04f",
+        "changelogUrl": "https://github.com/TheBlindOni/Blindpatch",
+        "notes": "BlindPatch beta 1, the first release through Accessibility Mod Manager. Includes UE4SS. Please report problems with a screen dump (F10, or tap L3 three times) and your BlindPatch_log.txt.",
+        "compatibility": null,
+        "patreon": null
+      }
+    ]
+  },
+  "author": {
+    "displayName": "TheBlindOni",
+    "bio": "Accessibility mods by a blind gamer, for the games I play start to finish.",
+    "websiteUrl": null,
+    "discordUrl": null,
+    "patreonUrl": null,
+    "gitHubUrl": "https://github.com/TheBlindOni",
+    "donationUrl": null
+  },
+  "dependencyPresets": []
+}
