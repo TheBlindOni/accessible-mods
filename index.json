@@ -1,13 +1,13 @@
 {
   "pluginId": "theblindoni",
   "repoVersion": "1",
-  "generatedAt": "2026-11-16T03:17:20.4152305Z",
+  "generatedAt": "2026-11-16T03:21:29.8197527Z",
   "games": [
     {
       "gameId": "dispatch",
       "displayName": "Dispatch",
       "modName": "BlindPatch",
-      "description": "Screen reader mod for Dispatch. Speaks menus, dialogue choices, quick-time events, the dispatch screen, hero files and hacking puzzles through NVDA or Windows\u0027 voice, with audio descriptions for all 8 episodes. Includes UE4SS.",
+      "description": "BlindPatch, A Dispatch Access Mod. If you get confused, read the README in the BlindPatch folder.",
       "steamAppId": "2592160",
       "linuxSteamAppId": null,
       "exeName": "Dispatch/Binaries/Win64/Dispatch-Win64-Shipping.exe",
